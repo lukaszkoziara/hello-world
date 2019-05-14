@@ -1,7 +1,6 @@
 """sample test"""
 import unittest
 
-
 from hello import hello
 
 
